@@ -14,6 +14,6 @@ if __name__ == "__main__":
     print('{} {}'.format("Hello python", "hi pycharm"))
     x = 10
     y = 5
-    print("add({}, {}) = {}\n".format(x, y, add(x,y)))
-    print("mul({}, {}) = {}\n".format(x, y, mul(x,y)))
+    print("add({}, {}) = {}".format(x, y, add(x,y)))
+    print("mul({}, {}) = {}".format(x, y, mul(x,y)))
     print("div({}, {}) = {}".format(x, y, div(x, y)))
