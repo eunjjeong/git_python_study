@@ -15,5 +15,5 @@ if __name__ == "__main__":
     x = 10
     y = 5
     print("add({}, {}) = {}\n".format(x, y, add(x,y)))
-    print("mul({}, {}) = {}\n".foramt(x, y, mul(x,y)))
-    print("div({}, {}) = {}".foramt(x, y, div(x, y)))
+    print("mul({}, {}) = {}\n".format(x, y, mul(x,y)))
+    print("div({}, {}) = {}".format(x, y, div(x, y)))
